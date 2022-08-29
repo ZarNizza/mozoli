@@ -1,0 +1,5 @@
+Host: http://sport-mozoli.ru
+Sitemap: http://sport-mozoli.ru/sitemap.xml
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /cgi-sys
